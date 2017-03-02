@@ -1,0 +1,10 @@
+E:\WorkSpace\Tuts\VcomDetection\VcomDetection\bin\Debug\VcomDetection.exe.config
+E:\WorkSpace\Tuts\VcomDetection\VcomDetection\bin\Debug\VcomDetection.exe
+E:\WorkSpace\Tuts\VcomDetection\VcomDetection\bin\Debug\VcomDetection.pdb
+E:\WorkSpace\Tuts\VcomDetection\VcomDetection\bin\Debug\Bunifu_UI_v1.52.dll
+E:\WorkSpace\Tuts\VcomDetection\VcomDetection\obj\Debug\VcomDetection.csprojResolveAssemblyReference.cache
+E:\WorkSpace\Tuts\VcomDetection\VcomDetection\obj\Debug\VcomDetection.Properties.Resources.resources
+E:\WorkSpace\Tuts\VcomDetection\VcomDetection\obj\Debug\VcomDetection.csproj.GenerateResource.Cache
+E:\WorkSpace\Tuts\VcomDetection\VcomDetection\obj\Debug\VcomDetection.exe
+E:\WorkSpace\Tuts\VcomDetection\VcomDetection\obj\Debug\VcomDetection.pdb
+E:\WorkSpace\Tuts\VcomDetection\VcomDetection\obj\Debug\VcomDetection.VcomDetect.resources
